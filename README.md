@@ -1,6 +1,6 @@
 # it-academy
 
-'''c++
+```c++
 
 int i = 0;
 
